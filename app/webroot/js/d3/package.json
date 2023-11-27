@@ -21,7 +21,7 @@
   },
   "main": "d3.js",
   "dependencies": {
-    "jsdom": "0.2.10"
+    "jsdom": "16.6.0"
   },
   "devDependencies": {
     "uglify-js": "1.2.3",
